@@ -45,7 +45,7 @@ the code
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/km80-cana/retailer-rewards-program.git
+git clone https://github.com/km80-cana/retailer-rewards.git
 ```
 
 **2. Create Mysql database**
